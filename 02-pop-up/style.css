@@ -58,7 +58,6 @@ button {
   pointer-events: all;
   transform: translate(-50%, -50%);
   opacity: 100%;
-  transition: transform 0.5s, opacity 0.5s;
 } 
 
 .backdrop.show {
